@@ -1,4 +1,4 @@
-name: plant-b-simulation
+name: plant-b-simulation-env
 channels:
   - conda-forge
   - defaults
