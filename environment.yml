@@ -1,0 +1,94 @@
+name: plant-b-simulation
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+
+# Libraries to standardize and quality check code
+  - autopep8
+  - black
+  - flake8
+  - flake8-import-order
+  - nbqa
+  - pydocstyle
+
+# Libraries for interactive computing
+  - ipython
+  - jupyterlab
+  - nbclean
+  - nbresuse
+  - notebook
+  - papermill
+
+# Libraries to use APIs and access data
+  - adlfs
+  - dataretrieval
+  - earthaccess
+  - earthpy
+  - osmnx
+  - pystac-client
+  - requests
+
+# Libraries to process and load Python objects
+  - dask
+  - tqdm
+
+# Libraries for data handling:
+# Data arrays
+  - numpy
+  - pandas
+  - scipy
+
+# Positional data
+  - cartopy
+  - geopy
+  - pyproj>=3.0 
+
+# Raster data
+  - h5py
+  - netcdf4
+  - rasterio
+  - regionmask
+  - rioxarray>=0.3.0
+  - xarray
+  - xarray-spatial
+
+# Vector data
+  - geojson
+  - geopandas
+  - pyogrio
+
+# Libraries for visualization and interactive plotting:
+# Folium
+  - folium
+
+# Holoviews
+  - geoviews>=1.10
+  - holoviews<=1.19
+  - hvplot
+  - jupyter_bokeh
+  - phantomjs
+  - selenium
+
+# Matplotlib
+  - contextily
+  - descartes
+  - matplotlib
+  - nc-time-axis
+  - seaborn
+
+# Libraries for machine learning and modeling
+  - scikit-fuzzy
+  - scikit-learn
+
+# Libraries for ecological stoichiometry modeling
+  - chempy
+  - pycomo
+  - pysd
+
+  - pip:
+    - pygbif
+    - tellurium
