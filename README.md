@@ -126,7 +126,5 @@ Maeng, C., Hiwatashi, Y., Nakamura, K., Matsuda, O., Mita, H., Tomita-Yokotani, 
 
 Takemura, K., Hiroyuki Kamachi, Kume, A., Fujita, T., Ichirou Karahara, & Hanba, Y. T. (2016). A hypergravity environment increases chloroplast size, photosynthesis, and plant growth in the moss Physcomitrella patens. *Journal of Plant Research*, *130*(1), 181–192. https://doi.org/10.1007/s10265-016-0879-z
 
-Sürmen, B., Kutbay, H. G., Kılıç, D. D., Huseynova, R., & Kilinç, M. (2014). Ellenberg’s indicator values for soil nitrogen concentration and pH in selected swamp forests in the Central Black Sea region of Turkey. *Turkish Journal of Botany*, *38*(5), 883–895. https://doi.org/10.3906/bot-1311-43
-
 
 
