@@ -86,7 +86,6 @@ dependencies:
 
 # Libraries for ecological stoichiometry modeling
   - chempy
-  - pycomo
   - pysd
 
   - pip:
