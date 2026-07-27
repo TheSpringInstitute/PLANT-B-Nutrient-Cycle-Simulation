@@ -124,7 +124,4 @@ Kalbacher, K. T., & Gonzalez, E. N. M. (2016). Analysis of a Low Earth Orbit Pho
 
 Maeng, C., Hiwatashi, Y., Nakamura, K., Matsuda, O., Mita, H., Tomita-Yokotani, K., Yokobori, S., Yamagishi, A., Kume, A., & Fujita, T. (2025). Extreme environmental tolerance and space survivability of the moss, *Physcomitrium patens*. *IScience*, *28*(12), 113827. https://doi.org/10.1016/j.isci.2025.113827
 
-Takemura, K., Hiroyuki Kamachi, Kume, A., Fujita, T., Ichirou Karahara, & Hanba, Y. T. (2016). A hypergravity environment increases chloroplast size, photosynthesis, and plant growth in the moss Physcomitrella patens. *Journal of Plant Research*, *130*(1), 181–192. https://doi.org/10.1007/s10265-016-0879-z
-
-
-
+Takemura, K., Hiroyuki Kamachi, Kume, A., Fujita, T., Ichirou Karahara, & Hanba, Y. T. (2016). A hypergravity environment increases chloroplast size, photosynthesis, and plant growth in the moss *Physcomitrella patens*. *Journal of Plant Research*, *130*(1), 181–192. https://doi.org/10.1007/s10265-016-0879-z
