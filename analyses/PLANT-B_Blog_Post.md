@@ -64,8 +64,6 @@ The PLANT-B Nutrient Cycle Simulation repository can be accessed on GitHub [here
 
 ## References
 
-Gallardo Ruiz, M., Le Galliard, J.-F., & Tully, T. (2017). Genetic Variation in Light Vision and Light-dependent Movement Behaviour in the Eyeless Collembola *Folsomia candida*. *Pedobiologia*, 61, 33–41. https://doi.org/10.1016/j.pedobi.2016.12.001
-
 Grove, Patrick. (2023, June 30). *Comparing Life Support Solutions: PCLSS vs BLSS vs CELSS*. The Spring Institute for Forest on the Moon. https://thespringinstitute.com/comparing-life-support-solutions-pclss-vs-blss-vs-celss/
 
 Kalbacher, K. T., & Gonzalez, E. N. M. (2016). Analysis of a Low Earth Orbit Photoperiod on the Development of Aquaponic Lettuce. *AIAA 2016-5352*. https://doi.org/10.2514/6.2016-5352

@@ -84,7 +84,7 @@ This repository's data was originally processed in the earth-analytics-python en
 
 ## DOI and Licensing
 
-This repository is private. A fully public release of the finalized repository may be made at the discretion of The Spring Institute. 
+The temporary DOI for this repository is [10.5281/zenodo.21696074](doi.org/10.5281/zenodo.21696075). A fully public release of the finalized repository may be made at the discretion of The Spring Institute. 
 
 The current license is a temporary placeholder. Unauthorized redistribution, replication, or alteration of the source code is strictly forbidden.
 
@@ -148,12 +148,12 @@ Xie, L., Duan, X., Norouzi, S., de Jonge, L. W., & Topping, C. J. (2026). Integr
 
 <ins>Text Citations</ins>
 
-Gallardo Ruiz, M., Le Galliard, J.-F., & Tully, T. (2017). Genetic variation in light vision and light-dependent movement behaviour in the eyeless Collembola Folsomia candida. *Pedobiologia*, 61, 33–41. https://doi.org/10.1016/j.pedobi.2016.12.001
-
 Grove, Patrick. (2023, June 30). *Comparing Life Support Solutions: PCLSS vs BLSS vs CELSS*. The Spring Institute for Forest on the Moon. https://thespringinstitute.com/comparing-life-support-solutions-pclss-vs-blss-vs-celss/
 
 Kalbacher, K. T., & Gonzalez, E. N. M. (2016). Analysis of a Low Earth Orbit Photoperiod on the Development of Aquaponic Lettuce. *AIAA 2016-5352*. https://doi.org/10.2514/6.2016-5352
 
 Maeng, C., Hiwatashi, Y., Nakamura, K., Matsuda, O., Mita, H., Tomita-Yokotani, K., Yokobori, S., Yamagishi, A., Kume, A., & Fujita, T. (2025). Extreme environmental tolerance and space survivability of the moss, *Physcomitrium patens*. *IScience*, *28*(12), 113827. https://doi.org/10.1016/j.isci.2025.113827
+
+Ruiz, G. M., Le Galliard, J.-F., & Tully, T. (2017). Genetic Variation in Light Vision and Light-dependent Movement Behaviour in the Eyeless Collembola *Folsomia candida*. *Pedobiologia*, 61, 33–41. https://doi.org/10.1016/j.pedobi.2016.12.001
 
 Takemura, K., Hiroyuki Kamachi, Kume, A., Fujita, T., Ichirou Karahara, & Hanba, Y. T. (2016). A hypergravity environment increases chloroplast size, photosynthesis, and plant growth in the moss *Physcomitrella patens*. *Journal of Plant Research*, *130*(1), 181–192. https://doi.org/10.1007/s10265-016-0879-z
