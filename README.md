@@ -32,7 +32,7 @@ The dataset being used from ESDAC is the LUCAS 2018 TOPSOIL dataset. This datase
 
 <ins>StoichLife Database</ins>
 
-The StoichLife data was used to determine carbon and nitrogen concentrations in closely related species of *T. tomentosa*, *F. candida*, and *P. patens*. 
+The StoichLife data was used to determine carbon and nitrogen concentrations in closely related species of *T. tomentosa*, *F. candida*, and *P. patens*. As the target species were not present in the dataset, it was filtered for closely related species, and carbon and nitrogen percentages were extracted.
 
 ## Repository Replication Instructions
 
