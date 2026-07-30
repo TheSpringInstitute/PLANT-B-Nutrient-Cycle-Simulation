@@ -84,7 +84,7 @@ This repository's data was originally processed in the earth-analytics-python en
 
 ## DOI and Licensing
 
-The temporary DOI for this repository is [10.5281/zenodo.21696074](doi.org/10.5281/zenodo.21696075). A fully public release of the finalized repository may be made at the discretion of The Spring Institute. 
+The temporary DOI for this repository is [10.5281/zenodo.21696074](https://doi.org/10.5281/zenodo.21696075). A fully public release of the finalized repository may be made at the discretion of The Spring Institute. 
 
 The current license is a temporary placeholder. Unauthorized redistribution, replication, or alteration of the source code is strictly forbidden.
 
