@@ -18,7 +18,7 @@ The first notebook that should be run is "part-1-soil-habitats.ipynb." The purpo
 
 The second notebook that should be run is "part-2-gathering-stoichiometric-variables.ipynb." The purpose of this notebook is to use the StoichLife dataset to determine the elemental composition of PLANT-B's three target species. Like ESDAC's dataset, the StoichLife dataset cannot be downloaded with a function; instead, it can be accessed and downloaded at https://datadryad.org/dataset/doi:10.5061/dryad.3tx95x6r2.
 
-The third notebook that should be run is "part-3-simulating-nutrient-cycles.ipynb." The purpose of this notebook is to model population growth for the invertebrates and construct stoichiometric chemical equations to model the carbon and nitrogen cycles inside the terrarium. This notebook is still under construction.
+The third notebook that should be run is "part-3-simulating-nutrient-cycles.ipynb." The purpose of this notebook is to model population growth for the invertebrates and construct stoichiometric chemical equations to model the carbon and nitrogen cycles inside the terrarium. 
 
 <ins>Data Sources Background</ins>
 
@@ -47,7 +47,7 @@ This repository's data was originally processed in the earth-analytics-python en
 
    This creates a directory called "PLANT-B-Terrarium."
    
-   b. cd earth-analytics
+   b. cd PLANT-B-Terrarium
     
       mkdir data
 
@@ -84,9 +84,9 @@ This repository's data was originally processed in the earth-analytics-python en
 
 ## DOI and Licensing
 
-The temporary DOI for this repository is [10.5281/zenodo.21696074](https://doi.org/10.5281/zenodo.21696075). A fully public release of the finalized repository may be made at the discretion of The Spring Institute. 
+No DOI is currently available for this repository. A fully public release of the finalized repository may be made at the discretion of The Spring Institute. 
 
-The current license is a temporary placeholder. Unauthorized redistribution, replication, or alteration of the source code is strictly forbidden.
+No license is available for the repository. Unauthorized redistribution, replication, or alteration of the source code is strictly forbidden.
 
 ## Bibliography
 
