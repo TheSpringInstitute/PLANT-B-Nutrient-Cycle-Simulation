@@ -6,7 +6,7 @@
 
 The PLANT-B CubeSat Terrarium Mission is a project by The Spring Institute for Forests on the Moon to send a bioactive—or self-sustaining—terrarium on a satellite into low-Earth orbit (LEO) for two to five years. PLANT-B is an acronym that stands for Passive Light and Nutrient Terrarium-Biosphere, representative of the system's passive operations; the satellite is engineered to passively light and heat the 0.7 L terrarium. Inhabited by a plant and numerous microorganisms, this terrarium is unique in that it is one of the first attempts to maintain a self-sustaining, Earth-like ecosystem directly in the space environment; terrarium experiments have been conducted on the the International Space Station (ISS), but true biological payloads are rare, especially on satellites. By incorporating multiple trophic levels, the terrarium ecosystem grants us insight into the functioning of closed ecological life support systems (CELSS)—a biological space life support system that also incorporates multitrophic species assemblages to replenish life-sustaining resources for and maintain the habitability of a closed system (Grove, 2023). When space settlements become a reality, prospective inhabitants must be able to replenish their own resources to reduce dependence on resupply flights.
 
-![An early PLANT-B terrarium prototype showing the spiral of Hygrolon the moss will grow on.](https://raw.githubusercontent.com/TheSpringInstitute/PLANT-B-Nutrient-Cycle-Simulation/main/img/PLANT-B_Prototype.JPG)
+![An early PLANT-B terrarium prototype showing the spiral of Hygrolon the moss will grow on.](https://raw.githubusercontent.com/TheSpringInstitute/PLANT-B-Nutrient-Cycle-Simulation/main/img/PLANT-B_Prototype.png)
 
 To create a self-sustaining terrarium ecosystem that can function in space without outside intervention, all ecological processes must be accounted for. The "PLANT-B Nutrient Cycle Simulation" GitHub repository was developed to simulate the terrarium ecosystem's carbon (C) and nitrogen (N) cycles. Initial simulations will provide a baseline reference point for understanding how nutrients flow throughout the terrarium ecosystem.
 
@@ -76,7 +76,7 @@ McGee, K. M., Porter, T. M., Wright, M., & Hajibabaei, M. (2020). Drivers of Tro
 
 National Aeronautics and Space Administration. (2015, February). *Microgravity Science on the ISS: A Primer for New Researchers* [PowerPoint slides]. https://www.nasa.gov/wp-content/uploads/2015/02/501343main_microgravity_science.pdf
 
-Ruiz, G. M., Le Galliard, J.-F., & Tully, T. (2017). Genetic Variation in Light Vision and Light-dependent Movement Behaviour in the Eyeless Collembola *Folsomia candida*. *Pedobiologia*, 61, 33–41. https://doi.org/10.1016/j.pedobi.2016.12.001
+Ruiz, G. M., Le Galliard, J.-F., & Tully, T. (2017). Genetic Variation in Light Vision and Light-dependent Movement Behaviour in the Eyeless Collembola *Folsomia candida*. *Pedobiologia*, *61*, 33–41. https://doi.org/10.1016/j.pedobi.2016.12.001
 
 Sürmen, B., Kutbay, H. G., Kılıç, D. D., Huseynova, R., & Kilinç, M. (2014). Ellenberg’s Indicator Values for Soil Nitrogen Concentration and pH in Selected Swamp Forests in the Central Black Sea Region of Turkey. *Turkish Journal of Botany*, *38*(5), 883–895. https://doi.org/10.3906/bot-1311-43
 
