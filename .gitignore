@@ -3,14 +3,6 @@
 
 # Have Git ignore the below file types:
 # Repository-specific additions:
-# Avoid storing unneeded data files to save space in the repository
-data/
-*.cpg
-*.dbf
-*.ini
-*.prj
-*.shx
-
 # Do not store login credentials
 .env.local
 *.key
